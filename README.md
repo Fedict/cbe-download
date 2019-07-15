@@ -3,4 +3,4 @@ Download tool for CrossroadBank Enterprises, downloads the latest full zip from 
 
 Requires python 3 and BeautifulSoup4
 
-Usage: python3 downloader.py <username> <password>
+Usage: python3 downloader.py username password
